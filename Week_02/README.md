@@ -1,12 +1,12 @@
 学习笔记
 
-选择的题目：
-[二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)
-[二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)
-[丑数](https://leetcode-cn.com/problems/chou-shu-lcof/)
-[从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
-[全排列](https://leetcode-cn.com/problems/permutations/)
-[全排列 II ](https://leetcode-cn.com/problems/permutations-ii/)
+### 选择的题目：
+1. [二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)
+2. [二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)
+3. [丑数](https://leetcode-cn.com/problems/chou-shu-lcof/)
+4. [从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
+5. [全排列](https://leetcode-cn.com/problems/permutations/)
+6. [全排列 II ](https://leetcode-cn.com/problems/permutations-ii/)
 
 ---
 
