@@ -1,5 +1,15 @@
 学习笔记
 
+选择的题目：
+[二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)
+[二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)
+[丑数](https://leetcode-cn.com/problems/chou-shu-lcof/)
+[从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
+[全排列](https://leetcode-cn.com/problems/permutations/)
+[全排列 II ](https://leetcode-cn.com/problems/permutations-ii/)
+
+---
+
 ###  二叉树
 1. 遍历
    * 前序遍历(preorder)：根-左-右
@@ -67,4 +77,5 @@
          }
          ```
 2. 重建二叉树
+	
 	* 通过前序/后序遍历+中序遍历可重建二叉树
